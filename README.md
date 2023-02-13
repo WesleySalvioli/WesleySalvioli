@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WesleySalvioli
-- 👀 I’m interested in games and films
+- 👀 I’m interested in developer, games and films
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on JavaScrip (react)
 - 📫 How to reach me [...](https://www.linkedin.com/in/wesley-salvioli-57670a1ba/)
